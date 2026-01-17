@@ -1,0 +1,5 @@
+{
+  "name": "Enterprise ATS Resume Engine",
+  "description": "An enterprise-grade resume evaluation platform simulating top-tier ATS systems from Google, Microsoft, and Amazon using advanced NLP for semantic matching and scoring.",
+  "requestFramePermissions": []
+}
